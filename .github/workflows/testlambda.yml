@@ -6,5 +6,5 @@
     payload: '{"key1": "hello,world!!", "key2": "value2"}' # Replace with your function's input
     region: us-west-2 # Replace with the region where your function is deployed
   env:
-    AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-    AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    AWS_ACCESS_KEY_ID: ${{ AKIASPSEXE7KZYJNKS5W }}
+    AWS_SECRET_ACCESS_KEY: ${{ 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 }}
